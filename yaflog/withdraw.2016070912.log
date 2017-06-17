@@ -1,0 +1,2 @@
+[2016-07-09 12:26:24] info.INFO: {"key":"wallet","res":1,"data":{"account_id":1213123,"cash_amount":1,"note":"123"}} [] []
+[2016-07-09 12:30:51] info.INFO: {"key":"wallet","res":1,"data":{"account_id":1213123,"cash_amount":100,"note":"123"}} [] []

@@ -1,0 +1,6 @@
+[2016-07-07 16:29:33] error.ERROR: [0:Can not get hosts from Array|error:]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:19] [] []
+[2016-07-07 16:30:01] error.ERROR: [0:Can not get hosts from Array|error:]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:19] [] []
+[2016-07-07 16:30:24] error.ERROR: [0:Can not get hosts from Array|error:]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:19] [] []
+[2016-07-07 16:30:42] error.ERROR: [0:Can not get hosts from Array|error:]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:19] [] []
+[2016-07-07 16:31:32] error.ERROR: [0:Can not get hosts from Array|error:]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:19] [] []
+[2016-07-07 16:49:44] error.ERROR: [1004:参数错误]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:17] [] []

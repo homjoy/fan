@@ -1,0 +1,6 @@
+[2016-06-25 11:09:58] error.WARNING: [1004:参数错误]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:17] [] []
+[2016-06-25 11:09:58] error.ERROR: [1004:参数错误]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:17] [] []
+[2016-06-25 11:15:28] error.WARNING: [1004:参数错误]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:17] [] []
+[2016-06-25 11:15:28] error.ERROR: [1004:参数错误]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:17] [] []
+[2016-06-25 11:15:38] error.WARNING: [517:There is no method index&last_id=1Action in GetFollowShareListController]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:19] [] []
+[2016-06-25 11:15:38] error.ERROR: [517:There is no method index&last_id=1Action in GetFollowShareListController]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:19] [] []

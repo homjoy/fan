@@ -1,0 +1,1 @@
+[2016-07-11 14:09:58] error.ERROR: [42:SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause' (SQL: select * from `withdraw_info` where `user_id` = 3 and `status` = 3 and `id` < 0 order by `created_time` desc limit 20)]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:19] [] []

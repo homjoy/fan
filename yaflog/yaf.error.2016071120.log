@@ -1,0 +1,2 @@
+[2016-07-11 20:56:10] error.ERROR: [61:Connection refused [tcp://127.0.0.1:6379]]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:19] [] []
+[2016-07-11 20:56:33] error.ERROR: [61:Connection refused [tcp://127.0.0.1:6379]]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:19] [] []

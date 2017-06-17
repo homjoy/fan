@@ -1,0 +1,3 @@
+[2016-07-06 18:20:16] info.INFO: {"key":"operation_order","res":{"data":1,"message":"\u64cd\u4f5c\u6210\u529f"},"data":{"order_id":73,"status":6,"user_id":3}} [] []
+[2016-07-06 18:20:21] info.INFO: {"key":"operation_order","res":{"data":1,"message":"\u64cd\u4f5c\u6210\u529f"},"data":{"order_id":73,"status":5,"user_id":3}} [] []
+[2016-07-06 18:20:23] info.INFO: {"key":"operation_order","res":{"data":0,"message":"\u66f4\u65b0\u5931\u8d25"},"data":{"order_id":73,"status":5,"user_id":3}} [] []

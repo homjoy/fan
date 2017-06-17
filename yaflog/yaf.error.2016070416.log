@@ -1,0 +1,4 @@
+[2016-07-04 16:09:13] error.ERROR: [10002:电子邮箱不合法]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:17] [] []
+[2016-07-04 16:09:24] error.ERROR: [10002:电子邮箱不合法]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:17] [] []
+[2016-07-04 16:55:46] error.ERROR: [1004:参数错误]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:17] [] []
+[2016-07-04 16:55:52] error.ERROR: [1004:参数错误]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:17] [] []

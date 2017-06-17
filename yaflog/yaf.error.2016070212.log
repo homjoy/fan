@@ -1,0 +1,6 @@
+[2016-07-02 12:36:44] error.ERROR: [1004:参数错误]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:17] [] []
+[2016-07-02 12:37:21] error.ERROR: [1004:参数错误]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:17] [] []
+[2016-07-02 12:37:24] error.ERROR: [0:Illegal operator and value combination.]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:19] [] []
+[2016-07-02 12:38:10] error.ERROR: [0:Illegal operator and value combination.]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:19] [] []
+[2016-07-02 12:39:36] error.ERROR: [23000:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'market_price' cannot be null (SQL: insert into `product_info` (`catalog_id`, `product_version`, `product_attr`, `product_number`, `product_name`, `product_type`, `market_price`, `product_price`, `product_discount_fee`, `product_image`, `status`) values (1, 1, , 1, 11, 50, , 100, , 416, 1))]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:19] [] []
+[2016-07-02 12:41:20] error.ERROR: [517:There is no method eAction in ProductInfoController]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:19] [] []

@@ -1,0 +1,1 @@
+[2016-07-08 10:06:46] error.ERROR: [23000:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'address_id' cannot be null (SQL: insert into `order_info` (`order_price`, `order_no`, `order_fee`, `order_type`, `order_message`, `address_id`) values (100, 1, 100, 1, , ))]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:19] [] []

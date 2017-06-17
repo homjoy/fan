@@ -1,0 +1,2 @@
+[2016-07-07 12:18:27] error.ERROR: [1004:参数错误]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:17] [] []
+[2016-07-07 12:53:58] error.ERROR: [516:Failed opening controller script /Users/zhouhong/xianrou/yaframe/application/controllers/User.php: No such file or directory]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:19] [] []

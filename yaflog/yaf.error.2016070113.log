@@ -1,0 +1,4 @@
+[2016-07-01 13:00:06] error.ERROR: [1004:参数错误]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:17] [] []
+[2016-07-01 13:05:51] error.ERROR: [10002:上传图片失败]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:17] [] []
+[2016-07-01 13:06:18] error.ERROR: [10002:上传图片失败]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:17] [] []
+[2016-07-01 13:06:31] error.ERROR: [10002:上传图片失败]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:17] [] []

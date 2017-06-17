@@ -1,0 +1,2 @@
+[2016-07-05 19:07:06] error.ERROR: [517:There is no method getdetailAction in OrderController]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:19] [] []
+[2016-07-05 19:07:13] error.ERROR: [517:There is no method getdetailAction in OrderController]	[/Users/zhouhong/xianrou/yaframe/application/controllers/Error.php:19] [] []
